@@ -26,11 +26,11 @@ This project challenges those assumptions using data to:
 ---
 
 ## Dataset Summary
-- Total customers analyzed 3,900
-- Total Revenue $233,081
-- Average order Value $60
-- Highest Sales Season Fall
-- Average rating 3.50/5
+- Total customers analyzed: 3,900
+- Total Revenue: $233,081
+- Average order Value: $60
+- Highest Sales Season: Fall
+- Average rating: 3.50/5
 - Key variables:
   - Customer gender and age
   - Product category and product type
