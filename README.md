@@ -86,5 +86,6 @@ Based on the analysis, the following actions are recommended:
 ---
 
 ## Author
-Noel Gilman 
+Noel Gilman
+
 Data Analyst | Excel | Business Insights
