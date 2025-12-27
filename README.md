@@ -26,7 +26,11 @@ This project challenges those assumptions using data to:
 ---
 
 ## Dataset Summary
-- Total customers analyzed: 3,900
+- Total customers analyzed 3,900
+- Total Revenue $233,081
+- Average order Value $60
+- Highest Sales Season Fall
+- Average rating 3.50/5
 - Key variables:
   - Customer gender and age
   - Product category and product type
@@ -40,7 +44,7 @@ This project challenges those assumptions using data to:
 
 ### 1. Seasonal Sales Performance
 Fall was identified as the highest performing sales season.
-This insight shows that focusing promotions and marketing campaigns during the Fall season can significantly increase overall revenue instead of spreading promotions evenly throughout the year.
+This insight shows that focusing promotions and marketing campaigns during the fall season can significantly increase overall revenue instead of spreading promotions evenly throughout the year.
 
 ---
 
@@ -82,5 +86,5 @@ Based on the analysis, the following actions are recommended:
 ---
 
 ## Author
-Noel  
+Noel Gilman 
 Data Analyst | Excel | Business Insights
